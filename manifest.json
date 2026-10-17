@@ -1,0 +1,20 @@
+{
+  "id": "org.sunny.free-lossless-catalogue",
+  "name": "Free Lossless Catalogue",
+  "version": "1.0.0",
+  "description": "Searches legal public music catalogues and reports provider-supplied audio metadata. It does not promise universal catalogue coverage or lossless quality unless verified by the source.",
+  "resources": [
+    "search",
+    "stream"
+  ],
+  "types": [
+    "music"
+  ],
+  "catalogs": [
+    {
+      "type": "music",
+      "id": "free-lossless",
+      "name": "Free Lossless Catalogue"
+    }
+  ]
+}

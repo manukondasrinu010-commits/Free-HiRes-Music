@@ -1,0 +1,13 @@
+{
+  "name": "bitchord-free-lossless-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free-source music catalogue addon for BitChord, prioritizing legal lossless audio where providers expose it.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
